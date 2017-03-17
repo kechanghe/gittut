@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9fe1aaa1-d882-4c3f-b253-3e240b7f1608" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/13.py" afterPath="$PROJECT_DIR$/13.py" />
     </list>
     <ignored path="github.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,13 +23,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-<<<<<<< HEAD
-      <file leaf-file-name="13.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="13.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/13.py">
-=======
-      <file leaf-file-name="12.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/12.py">
->>>>>>> parent of fc1d234... 2 commit
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -39,16 +43,11 @@
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
       <file leaf-file-name="10.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/10.py">
-=======
-      <file leaf-file-name="13.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/13.py">
->>>>>>> parent of fc1d234... 2 commit
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -67,7 +66,6 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -78,13 +76,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/7.py" />
-        <option value="$PROJECT_DIR$/8.py" />
-        <option value="$PROJECT_DIR$/9.PY" />
-        <option value="$PROJECT_DIR$/11.py" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/12.py" />
-        <option value="$PROJECT_DIR$/13.py" />
       </list>
     </option>
   </component>
@@ -141,32 +133,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="github" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="github" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="86" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="103" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="106" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="900" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="97" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="99" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="102" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="897" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
@@ -559,7 +544,6 @@
       <option name="project" value="LOCAL" />
       <updated>1489730147743</updated>
     </task>
-<<<<<<< HEAD
     <task id="LOCAL-00021" summary="2 commit">
       <created>1489730155488</created>
       <option name="number" value="00021" />
@@ -574,10 +558,14 @@
       <option name="project" value="LOCAL" />
       <updated>1489730207244</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
-=======
-    <option name="localTasksCounter" value="21" />
->>>>>>> parent of fc1d234... 2 commit
+    <task id="LOCAL-00023" summary="Revert &quot;2 commit&quot;&#10;&#10;This reverts commit fc1d234ddefa6ff74fe326a07066f62f46011332.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;">
+      <created>1489730800708</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1489730800708</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -599,7 +587,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -616,14 +604,6 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.py" />
   </component>
-  <component name="Vcs.Log.UiProperties">
-    <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
-    </option>
-    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection />
-    </option>
-  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -636,10 +616,12 @@
     <MESSAGE value="9.PY&#10;" />
     <MESSAGE value="3 commit" />
     <MESSAGE value="Revert &quot;2 commit&quot;&#10;&#10;This reverts commit 442ad1e81402f2fb39ae821285b4d82002a2abb3.&#10;&#10;# Conflicts:&#10;#&#9;11.py&#10;" />
-    <MESSAGE value="2 commit" />
     <MESSAGE value="22 commit" />
     <MESSAGE value="1 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 commit" />
+    <MESSAGE value="2 commit" />
+    <MESSAGE value="Revert &quot;2 commit&quot;&#10;&#10;This reverts commit fc1d234ddefa6ff74fe326a07066f62f46011332.&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;" />
+    <MESSAGE value="workspace.xml&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -679,7 +661,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10.py">
+    <entry file="file://$PROJECT_DIR$/12.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -687,15 +669,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3060">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.py">
+    <entry file="file://$PROJECT_DIR$/10.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -711,15 +685,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/13.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -728,7 +693,13 @@
         </state>
       </provider>
     </entry>
-=======
->>>>>>> parent of fc1d234... 2 commit
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
